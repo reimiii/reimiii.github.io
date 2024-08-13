@@ -12,7 +12,7 @@ title                    : "Hilmi AM"
 title_separator          : "-"
 name                     : &name "Hilmi AM"
 description              : &description "MEEE"
-url                      : https://reimiii.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://reimiii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reimiii/reimiii.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Hilmi AM"
   pronouns         : # example: "she/her"  
-  bio              : "Junior Java Developer"
+  bio              : "Backend Developer"
   location         : "Bogor - Indonesia"
   employer         : 
   uri              : # URL

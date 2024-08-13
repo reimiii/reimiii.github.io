@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-ehemm pardon
+Backend Developer dengan pengalaman membangun RESTful API menggunakan Spring Boot dan Docker. Mahir dalam scripting Bash dan mengelola database relasional. Berfokus pada pengembangan aplikasi yang skalabel dan efisien.
